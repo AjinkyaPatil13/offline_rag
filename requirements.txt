@@ -1,0 +1,45 @@
+# Web Interface
+streamlit
+fastapi
+uvicorn
+python-multipart
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-ollama
+
+# Vector databases
+chromadb
+faiss-cpu
+
+# Document processing
+pypdf
+python-docx
+
+# Image processing
+Pillow
+opencv-python
+open-clip-torch
+
+# PyTorch ecosystem
+# Torch CPU will be installed via README instructions for Windows if this fails automatically
+torch
+torchvision
+torchaudio
+
+# ML models and embeddings
+transformers
+sentence-transformers
+
+# Audio processing
+faster-whisper
+soundfile
+librosa
+speechrecognition
+
+# Utilities
+numpy
+pandas
+requests
+python-dotenv
